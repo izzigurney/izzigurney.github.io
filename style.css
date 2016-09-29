@@ -14,9 +14,7 @@ body {
 	margin-right: auto;
 	text-align: center;
 	border-collapse: collapse;
-	cellspacing: 1px;
 }
-
 
 th {
 	text-align: center;
@@ -24,6 +22,6 @@ th {
 	background-color: #003366;
 }
 html {
-	background-color: #e6ccff
+	background-color: #fffaf0
 
 }
