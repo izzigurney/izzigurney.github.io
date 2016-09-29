@@ -1,0 +1,29 @@
+body{
+	font-family: "Comic Sans MS", fantasy;
+	color: #f2f2f2;
+}
+
+h1,h2,h3,h4 {
+	font-size: 2em;
+	text-align: center;
+	color: #F9B2ED;
+}
+
+body {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	border-collapse: collapse;
+	cellspacing: 1px;
+}
+
+
+th {
+	text-align: center;
+	color: #ffffff;
+	background-color: #003366;
+}
+html {
+	background-color: #e6ccff
+
+}
