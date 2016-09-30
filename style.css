@@ -18,7 +18,9 @@ body {
 h2 {
 	font: fantasy;
 	color:#C3F6FD ;
+	font-size: 4em;
 }
+
 th {
 	text-align: center;
 	color: #ffffff;
