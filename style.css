@@ -30,6 +30,7 @@ th {
 }
 html {
 	background-image: url("images/floral.jpg");
+ 	opacity: 0.5;
 
 }
 
