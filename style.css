@@ -13,11 +13,12 @@ body {
 	margin-left: auto;
 	margin-right: auto;
 	text-align: center;
-	border-collapse: collapse;
-	cellspacing: 1px;
 }
 
-
+h2 {
+	font: fantasy;
+	color:#C3F6FD ;
+}
 th {
 	text-align: center;
 	color: #ffffff;
@@ -27,3 +28,4 @@ html {
 	background-color: #fffaf0
 
 }
+
