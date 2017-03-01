@@ -2,11 +2,17 @@ body{
 	font-family: "Comic Sans MS", fantasy;
 	color: #f2f2f2;
 }
+h1{
+	font-size: 3em;
+	font : 'Zapf-Chancery', cursive;
+	color: #FFFFFF;
+	font-weight: bold
+}
 
-h1,h2,h3,h4 {
-	font-size: 2em;
+h3, h4, h5, h6, h7, h8, h9, h10, h11, h12, h13, h14, h15, h16, h17, h18{
+	font-size: 1em;
 	text-align: center;
-	color: #F9B2ED;
+	color: #FFFFFF;
 }
 
 body {
@@ -15,11 +21,11 @@ body {
 	text-align: center;
 }
 
-h2 {
+h2{
 	font: fantasy;
 	color:#C3F6FD ;
-	font-size: 4em;
-	font-weight: bold;
+	font-size: 2em;
+	font-weight: normal;
 	font-family: 'Zapf-Chancery', cursive;
 }
 
@@ -29,8 +35,6 @@ th {
 	background-color: #003366;
 }
 html {
-	background-image: url("images/lightgray.jpg");
- 	opacity: 1;
-
+	background-image: "image/website_background.jpg";
 }
 
