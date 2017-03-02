@@ -4,21 +4,21 @@ body{
 }
 h1{
 	font-size: 3em;
-	font : 'Zapf-Chancery', cursive;
+	font-family: "Zian", "Andale Mono", cursive, Sans-serif;
 	color: #FFFFFF;
 	font-weight: bold
 }
 
 h4{
 	font-size: 1.5em;
-	font: 'fantasy';
+	font: fantasy;
 	margin-left: inherit;
 	margin-left: inherit;
 }
 
 p{
 	font-size: 1em;
-	font: 'Sans';
+	font: sans-serif;
 	text-align: center;
 	color: #FFFFFF;
 }
