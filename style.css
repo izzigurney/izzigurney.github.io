@@ -9,8 +9,16 @@ h1{
 	font-weight: bold
 }
 
-h3, h4, h5, h6, h7, h8, h9, h10, h11, h12, h13, h14, h15, h16, h17, h18{
+h4{
+	font-size: 1.5em;
+	font: "Sans";
+	margin-left: inherit;
+	margin-left: inherit;
+}
+
+p{
 	font-size: 1em;
+	font: 'Sans';
 	text-align: center;
 	color: #FFFFFF;
 }
@@ -34,10 +42,6 @@ th {
 	color: #ffffff;
 }
 
-html {
-	background-color: #000000;
-	background-image: "website_background.jpg";
-}
-website { 
-	background-image: "website_background.jpg";
+html { 
+	background-image : "website_background.jpg";
 }
