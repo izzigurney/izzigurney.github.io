@@ -1,7 +1,6 @@
 body{
 	font-family: "Comic Sans MS", fantasy;
 	color: #f2f2f2;
-	font-size: 2.5em; 
 }
 h1{
 	font-size: 3em;
@@ -46,4 +45,10 @@ th {
 html { 
 	background-image: url("large.jpg");
 
+}
+
+head {
+	font-size: 2.6em;
+	font: "Arial";
+	color: #C3F6FD;
 }
