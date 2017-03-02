@@ -43,5 +43,6 @@ th {
 }
 
 html { 
-	background-color: #000000;
+	background-color: index.html("website_background.jpg");
+
 }
