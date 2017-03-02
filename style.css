@@ -32,10 +32,12 @@ h2{
 th {
 	text-align: center;
 	color: #ffffff;
-	background-image: "images/website_background.jpg";
 }
 
 html {
-	background-image: "images/website_background.jpg";
+	background-color: #000000;
+	background-image: "website_background.jpg";
 }
-
+website { 
+	background-image: "website_background.jpg";
+}
