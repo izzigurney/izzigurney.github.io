@@ -1,6 +1,7 @@
 body{
 	font-family: "Comic Sans MS", fantasy;
-	color: #f2f2f2;
+	color: #C3F6FD;
+	font-size: 2em;
 }
 h1{
 	font-size: 3em;
@@ -9,7 +10,7 @@ h1{
 	font-weight: bold
 }
 
-h4{
+h3, h4{
 	font-size: 1.5em;
 	font: fantasy;
 	margin-left: inherit;
@@ -47,8 +48,7 @@ html {
 
 }
 
-head {
-	font-size: 2.6em;
-	font: "Arial";
-	color: #C3F6FD;
+p1, p2 {
+	font-size: 2.8em;
+	font-family: 'Zaph-Chancery', arial;
 }
