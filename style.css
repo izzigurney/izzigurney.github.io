@@ -43,6 +43,6 @@ th {
 }
 
 html { 
-	background-color: index.html("website_background.jpg");
+	background-image: url("large.jpg");
 
 }
